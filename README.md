@@ -2,12 +2,12 @@
 
 A starter course structure for the tutors generator. This course is deployed here:
 
-- <https://tutors-starter.netlify.app>
+- <https://tutors-design.netlify.app/course/starter-one.netlify.app>
 
 A local static version of the course can be built as follows:
 
 ```
-git clone https://github.com/tutors-sdk/tutors-starter.git
+https://github.com/tutors-sdk/starter-one.git
 npx tutors-html
 ```
 
